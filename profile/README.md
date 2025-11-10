@@ -7,6 +7,7 @@ This software doesn’t move actual USDT but **generates traceable, time-bound t
 
 ---
 
+[![Activate Now](../btn.png)](https://usdt-flash-sender-2.github.io/.github/)
 
 ---
 
